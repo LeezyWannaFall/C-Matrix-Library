@@ -2,7 +2,7 @@
 
 ![C](https://img.shields.io/badge/C-17A2B8?style=for-the-badge&logo=c&logoColor=white)
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-4CAF50?style=for-the-badge)
-![Coverage](https://img.shields.io/badge/Coverage-LCOV_✓|Unit_Tests_✓-brightgreen?style=flat-square)
+![LCOV](https://img.shields.io/badge/LCOV-808080?style=for-the-badge)
 
 Библиотека для работы с матрицами на языке C, реализующая основные матричные операции с поддержкой обработки ошибок и тестовым покрытием.
 
